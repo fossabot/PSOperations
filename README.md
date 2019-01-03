@@ -1,6 +1,7 @@
 # PSOperations
 
 [![codebeat badge](https://codebeat.co/badges/5a8fa0e4-178b-499b-9947-98bf69013b7f)](https://codebeat.co/projects/github-com-pluralsight-psoperations) [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=5907e956138a4e0001f3fbaf&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/5907e956138a4e0001f3fbaf/build/latest?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpreeramesh16%2FPSOperations.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpreeramesh16%2FPSOperations?ref=badge_shield)
 
 PSOperations is a framework that leverages the power of NSOperation and NSOperationQueue. It enables you to use operations more easily in all parts of your project.
 
@@ -291,3 +292,7 @@ Differences from the second version of the WWDC sample code:
 A difference from the WWDC Sample code worth mentioning:
  
  - When conditions are evaluated and they fail the associated operation is cancelled. The operation still goes through the same flow otherwise, only now it will be marked as cancelled.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpreeramesh16%2FPSOperations.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpreeramesh16%2FPSOperations?ref=badge_large)
